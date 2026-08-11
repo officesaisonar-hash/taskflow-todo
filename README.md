@@ -10,7 +10,7 @@ TaskFlow was created as my first JavaScript project to understand **CRUD operati
 
 ## 📸 Preview
 
-![TaskFlow Preview](screenshot.png)
+![TaskFlow Preview](Screenshot 2026-08-11 161052.png)
 
 ## 💼 LinkedIn
 
