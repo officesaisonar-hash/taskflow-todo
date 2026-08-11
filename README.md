@@ -12,6 +12,9 @@ TaskFlow was created as my first JavaScript project to understand **CRUD operati
 
 ![TaskFlow Preview](screenshot.png)
 
+## 💼 LinkedIn
+
+[View my LinkedIn post about Taskflow] (https://www.linkedin.com/posts/sai-sonar-774058404_webdevelopment-javascript-html-ugcPost-7492895223967064065-X2wb/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGc8D0gBZ2NYXPrb7-ilfOk5XKUQAWm-PwY )
 ## ✨ Features
 
 - ✅ Create new tasks
